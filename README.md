@@ -27,7 +27,6 @@ pip install -r ./requirements.txt
 - Podrá invocar la cloud function implementada mediante el siguiente cURL:
 ```bash
 curl -m 15 -X POST https://us-central1-gothic-state-355815.cloudfunctions.net/inferences \
--H "Authorization:bearer $(gcloud auth print-identity-token)" \
 -H "Content-Type:application/json" \
 -d '{"data": [[1, "gasoline", 10, 96, 0.0, 75]]}'
 ```
