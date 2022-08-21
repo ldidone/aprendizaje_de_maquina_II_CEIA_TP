@@ -1,7 +1,7 @@
 # Aprendizaje de máquina II - CEIA 
 ## Trabajo práctico
 
-En el siguiente repositorio encontrará los archivos necesarios para replicar la arquitectura de solución propuesta (mostrada en clases).
+En el siguiente repositorio encontrará los archivos necesarios para replicar la arquitectura de solución propuesta (mostrada en clases). Podrá acceder a las slides, mediante el siguiente [enlace](https://github.com/ldidone/aprendizaje_de_maquina_II_CEIA_TP/blob/main/slides/Presentaci%C3%B3n%20ML%202%20_%20Cardozo%20-%20Didone.pdf).
 
 ***
 ### Arquitectura propuesta:
